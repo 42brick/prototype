@@ -1,4 +1,4 @@
-# image_crawler
+# 42brick - prototype
 
 크롤링 대상 이미지 : 브릭 피규어 이미지
 크롤링 대상 사이트 : minifigs.blog/collection/
